@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "CARE Australia - Disaster Response Depot"
 date:   2016-10-18 11:49:45 +0200
-categories: testing
+categories: resume CARE
 ---
 This is a test page. I hope you are enjoying it.
 
